@@ -15,7 +15,7 @@ font-family: 'Gabia Heuldot';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaHeuldot/GabiaHeuldot.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaHeuldot/GabiaHeuldot.css" type="text/css"/>
 ```
 
 &nbsp;
